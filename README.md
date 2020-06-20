@@ -1,6 +1,6 @@
-![Binary Drop Banner](./kulture_banner.png "kulture Banner")
+![kulture Banner](./kulture_banner.png "kulture Banner")
 
-# Binary Drop
+# kulture
 
 Simple country digests.
 
